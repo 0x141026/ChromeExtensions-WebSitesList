@@ -1,4 +1,4 @@
-# ChromeExtensionsList
+# 各种常用谷歌插件和工具类网站汇总
 ## 常用谷歌插件
 <ol>
   <li>Astar VPN</li>
